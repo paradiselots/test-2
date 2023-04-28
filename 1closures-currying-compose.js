@@ -1,5 +1,6 @@
 //this is for git testing only
 //test number four 
+// this test is for the newtestbranch 
 
 // Closures
 /*In simplified terms, a closure is a function that has access to variables from an outer function's scope, even after the outer function has completed executing. 
